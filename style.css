@@ -1,0 +1,73 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.jumbotron{
+    text-align: center;
+    color: white;
+    padding: 14%;
+    margin-top: 54px;
+    background-image: url(jumbotron.jpg);
+    background-position: center;
+    background-size: cover;
+    text-shadow: 2px 2px 8px #000000;
+}
+
+#uslugi{
+    text-align: center;
+    padding-top: 4%;
+}
+
+.lead{
+    padding-bottom: 5%;
+}
+
+#uslugi img{
+    margin-bottom: 8%;
+}
+
+#projekty{
+    padding-top: 10%;
+}
+
+#hsklep{
+    color: black;
+}
+
+#psklep{
+    color: black;
+}
+
+#ofirmie{
+    padding-top: 15%;
+}
+
+.col-sm{
+    margin: auto;
+}
+
+#zespol{
+    padding-top: 10%;
+    text-align: center;
+}
+
+#zespol img{
+    margin-bottom: 8%;
+}
+
+#kontakt{
+    padding-top: 10%;
+    text-align: center;
+}
+
+#kontakt h1{
+    margin-bottom: 5%;
+}
+
+#kontakt p{
+    padding-bottom: 2%;
+}
+
+#formularz{
+    margin-bottom: 5%;
+}
